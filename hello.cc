@@ -4,6 +4,9 @@
  
 int main()
 {
-  std::cout << "Hello World from Dave Rigler!" << std::endl;
+  for(int i=0; i < 10; i++)
+  {
+    std::cout << "Hello World from Dave Rigler again and again!" << std::endl;
+  }
   return 0;
 }
