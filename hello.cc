@@ -4,6 +4,6 @@
  
 int main()
 {
-  std::cout << "Hello World!" << std::endl;
+  std::cout << "Hello World from Dave Rigler!" << std::endl;
   return 0;
 }
